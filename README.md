@@ -1,6 +1,10 @@
 # CS-AI-COMPUTER-SYSTEMS-SENSOR
 CHALLENGE SPRINT-AI COMPUTER SYSTEMS &amp; SENSOR - 2024
-
+#Participantes:
+555848 - André Rovai Andrade Xavier Junior
+558014 - Antonio Vinicius Vicentini Liberato
+557088 - Alan de Souza Maximiano da Silva
+558691 - Leonardo Zago Garcia Ferreira
 
 # Entrega do Projeto NEXT
 
